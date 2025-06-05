@@ -1,6 +1,5 @@
 # 🎵 Mood Detection from Music
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8+-green.svg)
 ![ML Project](https://img.shields.io/badge/Machine%20Learning-Music%20Mood%20Classifier-purple)
 
