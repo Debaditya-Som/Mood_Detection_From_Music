@@ -5,13 +5,10 @@
 
 An AI-powered project that detects the **mood of a listener based on the music they are playing**. This system analyzes audio features from a song to classify the listener’s emotional state as one of the following moods: `Happy`, `Sad`, `Energetic`, or `Calm`.
 
----
 
 ## 🧠 Project Overview
 
 This project uses machine learning to map audio features of music to emotional states. It’s ideal for building smart playlist generators, mood-aware applications, and personalized music recommendations.
-
----
 
 ## 📌 Key Features
 
@@ -21,7 +18,6 @@ This project uses machine learning to map audio features of music to emotional s
 - 🔌 API-ready architecture for integration
 - 🌐 Planned React frontend (optional)
 
----
 
 ## 🛠️ Tech Stack
 
